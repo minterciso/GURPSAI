@@ -1,0 +1,10 @@
+langchain-ollama
+langchain-groq
+langchain-text-splitters 
+langchain-community 
+langchain-core
+langchain-chroma>=0.1.2
+langchain-experimental
+faiss-cpu
+pypdf
+langgraph
